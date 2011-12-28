@@ -1,4 +1,4 @@
 *~.skp
-.stl
-.s3g
+*.s3g
+*.gcode
 .DS_Store
